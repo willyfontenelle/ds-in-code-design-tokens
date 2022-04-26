@@ -1,0 +1,22 @@
+{
+  "name": "@meiuca/dsc-design-tokens",
+  "version": "0.1.0",
+  "description": "Biblioteca de Design Token s para o Curso Design System in Code da Meiuca",
+  "main": "index.js",
+  "author": "Willy Fontenelle - W.Design <willyfontenelle@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/willyfontenelle/ds-in-code-design-tokens"
+  },
+  "file": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "node src/index.js",
+    "build:dev": "del dist && node src/index.js"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.0.3"
+  }
+}
