@@ -1,7 +1,7 @@
 {
   "name": "@willyfontenelle/dsc-design-tokens",
   "version": "0.1.0",
-  "description": "Biblioteca de Design Token s para o Curso Design System in Code da Meiuca",
+  "description": "Biblioteca de Design Tokens para o Curso Design System in Code da Meiuca",
   "main": "index.js",
   "author": "Willy Fontenelle - W.Design <willyfontenelle@gmail.com>",
   "repository": {
